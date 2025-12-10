@@ -76,7 +76,7 @@ Você pode ajustar os parâmetros da animação editando as seguintes variáveis
 
 ### 📝 Licença
 
-Este projeto é distribuído sob a licença **[SUA ESCOLHA DE LICENÇA]**.
+Este projeto é distribuído sob a licença [**MIT**](https://mit-license.org/).
 
 -----
 
